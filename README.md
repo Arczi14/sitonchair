@@ -1,1 +1,3 @@
 # sitonchair
+
+Przykładowy projekt **CodersLab**
