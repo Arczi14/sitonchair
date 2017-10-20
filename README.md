@@ -21,7 +21,7 @@ Projekt jest oparty głównie na technikach HTML i CSS.
 -wykonaj klon danego projektu na komputer (git clone https://github.com/ArekScibior/sitonchair.git)
 -wejdź do folderu z projektem (cd sitonchair)
 -zainstaluj potrzebne pakiety (npm install / npm i)
--gulp
+-uruchom gulp (gulp)
 ```
 
 ## Możesz obejrzeć dany projekt przechodząc do strony: https://arekscibior.github.io/sitonchair/
@@ -55,7 +55,7 @@ Project is created in technology HTML and CSS
 -make a clone (git clone https://github.com/ArekScibior/sitonchair.git)
 -enter to the clone folder (cd sitonchair)
 -install packages (npm install / npm i)
--gulp
+-run gulp (gulp)
 ```
 
 
