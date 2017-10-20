@@ -48,7 +48,7 @@ Project is created in technology HTML and CSS
 - CSS3
 - Javascript
 
-## Installing and tests
+## Installing and tests:
 
 ```
 -run console
