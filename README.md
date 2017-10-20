@@ -2,7 +2,7 @@
 
 > [PL]
 
-Sit On Chair jest to przykładowy projekt warsztatów, który był wykonany podczas kursu programowania w **CoderLab**.
+Sit On Chair jest to przykładowy projekt z warsztatów, który był wykonany podczas kursu programowania w **CoderLab**.
 Projekt jest oparty głównie na technikach HTML i CSS.
 
 **Ten projekt jest tylko wersji desktopowej**
