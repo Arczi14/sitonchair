@@ -1,6 +1,6 @@
-# Sit ON Chair
+## Sit ON Chair
 
-**[PL]**
+> [PL]
 
 Sit On Chair jest to przykładowy projekt warsztatów, który był wykonany podczas kursu programowania w **CoderLab**.
 Projekt jest oparty głównie na technikach HTML i CSS.
@@ -9,12 +9,12 @@ Projekt jest oparty głównie na technikach HTML i CSS.
 
 
 
-# Techniki użyte w projekcie:
+## Techniki użyte w projekcie:
 - HTML5
 - CSS3
 - Javascript
 
-# Aby uruchomić lub przetestować mój projekt:
+## Aby uruchomić lub przetestować mój projekt:
 
 ```
 -przejdź do konsoli
@@ -24,10 +24,10 @@ Projekt jest oparty głównie na technikach HTML i CSS.
 -gulp
 ```
 
-# Możesz obejrzeć dany projekt przechodząc do strony: https://arekscibior.github.io/sitonchair/
+## Możesz obejrzeć dany projekt przechodząc do strony: https://arekscibior.github.io/sitonchair/
 
 
-# Autor:
+## Autor:
 Arkadiusz Ścibior
 
 Data tworzenia projektu 25.08.2017
@@ -36,19 +36,19 @@ Data tworzenia projektu 25.08.2017
 
 
 
-**[ENG]**
+> [ENG]
 
 Sit on Chair it's example workshop project made on the course **CodersLab**
 Project is created in technology HTML and CSS
 
 **Only Desktop Site**
 
-# Technology used:
+## Technology used:
 - HTML5
 - CSS3
 - Javascript
 
-# Installing and tests
+## Installing and tests
 
 ```
 -run console
@@ -59,10 +59,10 @@ Project is created in technology HTML and CSS
 ```
 
 
-# View the projekt online: https://arekscibior.github.io/sitonchair/
+## View the projekt online: https://arekscibior.github.io/sitonchair/
 
 
-# Author:
+## Author:
 Arkadiusz Ścibior
 
 Create: 25.08.2017
