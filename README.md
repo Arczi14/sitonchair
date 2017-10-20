@@ -30,7 +30,7 @@ Projekt jest oparty głównie na technikach HTML i CSS.
 ## Autor:
 Arkadiusz Ścibior
 
-Data tworzenia projektu 25.08.2017
+Data tworzenia projektu: 25.08.2017
 
 
 
@@ -65,5 +65,5 @@ Project is created in technology HTML and CSS
 ## Author:
 Arkadiusz Ścibior
 
-Create: 25.08.2017
+Created: 25.08.2017
 
