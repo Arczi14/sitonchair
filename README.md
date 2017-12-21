@@ -59,7 +59,7 @@ Project is created in technology HTML and CSS
 ```
 
 
-## View the projekt online: https://arekscibior.github.io/sitonchair/
+## View the project online: https://arekscibior.github.io/sitonchair/
 
 
 ## Author:
