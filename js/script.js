@@ -26,28 +26,28 @@ document.addEventListener("DOMContentLoaded", function(event) {
     sliderCnt[0].classList.add("active");
 
     next.addEventListener("click", function (){
-                    i++;
-                    if (i > sliderCnt.length - 1) {
-                        i = 0;
-                        sliderCnt[0].classList.add("active");
-                        sliderCnt[sliderCnt.length -1].classList.remove("active");
-                    } else {
-                        sliderCnt[i].classList.add("active");
-                        sliderCnt[i - 1].classList.remove("active");
-                    }
-            });
+        i++;
+        if (i > sliderCnt.length - 1) {
+            i = 0;
+            sliderCnt[0].classList.add("active");
+            sliderCnt[sliderCnt.length -1].classList.remove("active");
+        } else {
+            sliderCnt[i].classList.add("active");
+            sliderCnt[i - 1].classList.remove("active");
+        }
+    });
 
-            previous.addEventListener("click", function (){
-                    i--;
-                    if (i < 0) {
-                        i = sliderCnt.length - 1;
-                        sliderCnt[i].classList.add("active");
-                        sliderCnt[0].classList.remove("active");
-                    } else {
-                        sliderCnt[i + 1].classList.remove("active");
-                        sliderCnt[i].classList.add("active");
-                    }
-            });
+    previous.addEventListener("click", function (){
+        i--;
+        if (i < 0) {
+            i = sliderCnt.length - 1;
+            sliderCnt[i].classList.add("active");
+            sliderCnt[0].classList.remove("active");
+        } else {
+            sliderCnt[i + 1].classList.remove("active");
+            sliderCnt[i].classList.add("active");
+        }
+    });
 
     //zmiana ze zdjecia na opis
     var myPicture = document.querySelectorAll('.picture-cnt');
